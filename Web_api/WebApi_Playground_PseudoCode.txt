@@ -1,0 +1,12 @@
+Practice Practice Practice!!!!
+
+Lets practice all the skills we learned in this section
+
+1) Create a basic html, use js to dynamically create,set, and append append semantic htlm elements/attributes
+2) Wireframe your html layout by hand or webtool
+3) Include all items from this unit:
+    -window object / traverse the dom
+    -timers
+    -eventListeners
+    -Preventing default
+    -keyboard events  
